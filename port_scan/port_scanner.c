@@ -9,7 +9,7 @@ int main(int argc, char* argv[]){
 
    if(argc<2){
       printf("Use mode incorret\n");
-      printf("./port_scanner target")
+      printf("./port_scanner target\n");
       return 1;
    }
 
